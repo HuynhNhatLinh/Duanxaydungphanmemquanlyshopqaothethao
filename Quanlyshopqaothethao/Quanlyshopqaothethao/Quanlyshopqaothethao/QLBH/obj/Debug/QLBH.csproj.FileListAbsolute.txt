@@ -1,0 +1,27 @@
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\bin\Debug\QLBH.exe.config
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\bin\Debug\QLBH.exe
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\bin\Debug\QLBH.pdb
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.csprojResolveAssemblyReference.cache
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.frmMain.resources
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.Cache
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.exe
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.pdb
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.uc.ucSanPham.resources
+c:\users\admin\downloads\documents\visual studio 2013\Projects\QLBH\QLBH\obj\Debug\QLBH.uc.ucLoaiSanPham.resources
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\bin\Debug\QLBH.exe.config
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\bin\Debug\QLBH.exe
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\bin\Debug\QLBH.pdb
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.csproj.SuggestedBindingRedirects.cache
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.frmMain.resources
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.uc.ucLoaiSanPham.resources
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.uc.ucSanPham.resources
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.exe
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.pdb
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.FrmDangNhap.resources
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.uc.uckhachhang.resources
+D:\Huỳnh Học\Lập trình window\Quanlycafe\Quanlycafe\QLBH\obj\Debug\QLBH.uc.ucdoimk.resources
